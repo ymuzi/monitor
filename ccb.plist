@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.hand-by-hand.com/ipa/Test.ipa</string>
+                   <string>file:///private/var/mobile/Containers/Bundle/Application/BA736A74-6986-4761-BA99-7C061193E0FC/Test.app/Test.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
