@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.hand-by-hand.com/icon/icon.png</string>
+                   <string>http://1.hbyh.sinaapp.com/icon/icon.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.hand-by-hand.com/icon/icon-120.png</string>
+                   <string>http://1.hbyh.sinaapp.com/icon/icon-120.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
