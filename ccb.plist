@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>file:///var/mobile/Containers/Data/Application/69FE21FD-E969-4960-83C6-09691370FDF3/Documents/ccb.ipa</string>
+                   <string>http://localhost:8080/ccb.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
