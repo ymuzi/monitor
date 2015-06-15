@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://localhost/488bcea141b84c0cb9415b9f4e6a5636.ipa</string>
+            <string>http://localhost/dd2c60b902e64e1e8ba51612b7cdbf09.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,21 +19,21 @@
             <key>needs-shine</key>
             <true />
             <key>url</key>
-            <string>http://localhost/488bcea141b84c0cb9415b9f4e6a5636.png</string> 
+            <string>http://localhost/dd2c60b902e64e1e8ba51612b7cdbf09.png</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.ccb.CCBShop</string>
+          <string>com.ccbih.ccbDemo</string>
           <key>bundle-version</key>
-          <string>20150128</string>
+          <string>3.4.2(9)</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>bankJs</string>
+          <string>建行手机银行</string>
           <key>title</key>
-          <string>banjs</string>
+          <string>建行手机银行</string>
         </dict>
       </dict>
     </array>
