@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>http://localhost/07ca1e30b5e14996957be5dd3cc10f50.ipa</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <true />
+            <key>url</key>
+            <string>http://localhost/07ca1e30b5e14996957be5dd3cc10f50.png</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.ccb.CCBShop</string>
+          <key>bundle-version</key>
+          <string>20150128</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>subtitle</key>
+          <string>善融买家版</string>
+          <key>title</key>
+          <string>善融买家版</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
