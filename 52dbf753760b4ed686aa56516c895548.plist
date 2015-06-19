@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://localhost:88/52dbf753760b4ed686aa56516c895548.ipa</string>
+            <string>http://localhost/52dbf753760b4ed686aa56516c895548.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,21 +19,21 @@
             <key>needs-shine</key>
             <true />
             <key>url</key>
-            <string>http://localhost:88/52dbf753760b4ed686aa56516c895548.png</string>
+            <string>http://localhost/52dbf753760b4ed686aa56516c895548.png</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.ccb.ios.smsbank</string>
+          <string>com.ccb.ios.smsbank</string> appPkg
           <key>bundle-version</key>
-          <string>1.0.0(1)</string>
+          <string>1.0.0(1)</string> appVersion
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>建行短信银行</string>
+          <string>建行短信银行</string>appName
           <key>title</key>
-          <string>建行短信银行</string>
+          <string>建行短信银行</string>appName
         </dict>
       </dict>
     </array>

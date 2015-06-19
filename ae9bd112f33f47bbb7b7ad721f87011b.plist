@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://localhost/48d81ea9b6fc48f6bff1e085880ea0a8.ipa</string>
+            <string>http://localhost/ae9bd112f33f47bbb7b7ad721f87011b.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,21 +19,21 @@
             <key>needs-shine</key>
             <true />
             <key>url</key>
-            <string>http://localhost/48d81ea9b6fc48f6bff1e085880ea0a8.png</string>
+            <string>http://localhost/ae9bd112f33f47bbb7b7ad721f87011b.png</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.ccb.ihCCBShop</string> appPkg
+          <string>com.ccb.ihOperator</string> appPkg
           <key>bundle-version</key>
-          <string>1.00(10)</string> appVersion
+          <string>1.0.0(1)</string> appVersion
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>善融买家版</string>appName
+          <string>善融运营宝</string>appName
           <key>title</key>
-          <string>善融买家版</string>appName
+          <string>善融运营宝</string>appName
         </dict>
       </dict>
     </array>
