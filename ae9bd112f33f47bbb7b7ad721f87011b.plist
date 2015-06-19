@@ -25,15 +25,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.ccb.ihOperator</string> appPkg
+          <string>com.ccb.ihOperator</string>
           <key>bundle-version</key>
-          <string>1.0.0(1)</string> appVersion
+          <string>1.0.0(1)</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>善融运营宝</string>appName
+          <string>善融运营宝</string>
           <key>title</key>
-          <string>善融运营宝</string>appName
+          <string>善融运营宝</string>
         </dict>
       </dict>
     </array>

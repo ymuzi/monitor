@@ -25,15 +25,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>%s</string> appPkg
+          <string>%s</string>
           <key>bundle-version</key>
-          <string>%s</string> appVersion
+          <string>%s</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>%s</string>appName
+          <string>%s</string>
           <key>title</key>
-          <string>%s</string>appName
+          <string>%s</string>
         </dict>
       </dict>
     </array>

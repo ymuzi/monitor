@@ -25,15 +25,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.ccb.CCBPadBank</string> appPkg
+          <string>com.ccb.CCBPadBank</string>
           <key>bundle-version</key>
-          <string>1.0.0(1)</string> appVersion
+          <string>1.0.0(1)</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>中国建设银行HD</string>appName
+          <string>中国建设银行HD</string>
           <key>title</key>
-          <string>中国建设银行HD</string>appName
+          <string>中国建设银行HD</string>
         </dict>
       </dict>
     </array>

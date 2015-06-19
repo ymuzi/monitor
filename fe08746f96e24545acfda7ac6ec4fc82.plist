@@ -25,15 +25,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.ccb.CCBAppStore</string> appPkg
+          <string>com.ccb.CCBAppStore</string>
           <key>bundle-version</key>
-          <string>1.0.0(6)</string> appVersion
+          <string>1.0.0(6)</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>移动金融服务平台</string>appName
+          <string>移动金融服务平台</string>
           <key>title</key>
-          <string>移动金融服务平台</string>appName
+          <string>移动金融服务平台</string>
         </dict>
       </dict>
     </array>
