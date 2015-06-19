@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://localhost:88/c43276325473445faf5f34c76adf7b67.ipa</string>
+            <string>http://localhost/9b3767d640574f968e3fddba393f7358.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,21 +19,21 @@
             <key>needs-shine</key>
             <true />
             <key>url</key>
-            <string>http://localhost:88/c43276325473445faf5f34c76adf7b67.png</string>
+            <string>http://localhost/9b3767d640574f968e3fddba393f7358.png</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.ccb.CCBAppStore</string>
+          <string>com.ccb.ihCCBShop</string>
           <key>bundle-version</key>
-          <string>1.0.0(7)</string>
+          <string>1.0.0(11)</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>移动金融服务平台</string>
+          <string>建行善融商城</string>
           <key>title</key>
-          <string>移动金融服务平台</string>
+          <string>建行善融商城</string>
         </dict>
       </dict>
     </array>

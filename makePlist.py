@@ -9,7 +9,7 @@ test = 0
 
 try:
     if test != 1:
-        s = urllib2.urlopen("http://store.ccb.com//mcmsfe/queryAppList.gsp?osType=IOS").read()
+        s = urllib2.urlopen("http://store.ccb.com//mcmsfe/queryAppList.gsp?osType=IOS&filterType=0").read()
         srcStr = s.decode('gbk').encode('utf-8')
         print '----------------------------'
         print u'begain....'
@@ -29,7 +29,7 @@ try:
     template = open("./template.plist",'r')
     tlStr = template.read();
     template.close()
-    
+    count = 1
     apps = jsObj['apps']
     for app in apps:
         appId = app['appId']
@@ -46,6 +46,8 @@ try:
         dest = codecs.open(fileName,'w',"utf-8")
         dest.write(content);
         dest.close()
+        print count,'\n'
+        count = count + 1
     print 'complete'
     print '-------------------------'
 except urllib2.HTTPError,e:
